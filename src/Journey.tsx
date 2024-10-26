@@ -2,13 +2,13 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-function Calendar() {
+function Journey() {
   return (
     <>
-      <div className="Calendar">
+      <div className="Journey">
       </div>
     </>
   );
 }
 
-export default Calendar;
+export default Journey;
